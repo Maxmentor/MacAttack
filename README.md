@@ -1,15 +1,15 @@
-<b>---------------HOW TO USE ---------------<b><br>
-#Download Software And Run.<br>
+<b>HOW TO USE:<b><br>
+#Download Software And Run.<br><br>
 #Go to setting 
- [Output: check all option],  [Gernal: check play a sound],  [Output: check all option], [Video Player: check Load Mac into the player]<br>
-#Go to proxy [Enable : Enable pro, altenate speed method] & [check get proxy hourly] <br>
-#Click on Get Proxies [Wait For Done Message: IP auttomatic fill in blank area]<br>
-#Now Select and copy Host address [givenbellow like: http://tivi.stream4k.cc/stalker_portal/c]<br>
-#Go to Mac Attack Pase This Host [Type: Autodedect, range 50/100].<br>
-#Start<br>
-#Now Wait For Hit [may be wait time 5min, 15min,30 min or more]  Most of Time In 15-20 min you got 1 hit or 3,4 hit.<br>
-#every time when you got hit . Mac And Hot Detail automatic paste in MAC VIDEO PLAYER. Simply click Get Play List... <br>
-#ENJOY..<br>
+ [Output: check all option],  [Gernal: check play a sound],  <br>[Output: check all option], [Video Player: check Load Mac into the player]<br><br>
+#Go to proxy [Enable : Enable pro, altenate speed method] & [check get proxy hourly] <br><br>
+#Click on Get Proxies [Wait For Done Message: IP auttomatic fill in blank area]<br><br>
+#Now Select and copy Host address [givenbellow like: http://tivi.stream4k.cc/stalker_portal/c]<br><br>
+#Go to Mac Attack Pase This Host [Type: Autodedect, range 50/100].<br><br>
+#Start<br><br>
+#Now Wait For Hit [may be wait time 5min, 15min,30 min or more]  Most of Time In 15-20 min you got 1 hit or 3,4 hit.<br><br>
+#every time when you got hit . Mac And Hot Detail automatic paste in MAC VIDEO PLAYER. Simply click Get Play List... <br><br>
+#ENJOY..<br><br>
 
 
 <br>
